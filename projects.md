@@ -1,8 +1,8 @@
 Projects list:
-1. belarus
-2. ukraine
-3. lithuania
-4. latvia
-5. estonia
-6. poland
+1. Belarus
+2. Ukraine
+3. Lithuania
+4. Latvia
+5. Estonia
+6. Poland
 
