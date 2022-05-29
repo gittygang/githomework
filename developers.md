@@ -3,5 +3,4 @@ Developers list:
 2. Petya Petrov
 3. Vanya Ivanov
 4. Sasha Aleksandrov
-5. Volodya Vladimirov
 
