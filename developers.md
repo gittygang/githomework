@@ -1,7 +1,7 @@
 Developers list:
-1. Vasya
-2. Petya
-3. Vanya
-4. Sasha
-5. Volodya
+1. Vasya Vasiliev
+2. Petya Petrov
+3. Vanya Ivanov
+4. Sasha Aleksandrov
+5. Volodya Vladimirov
 
